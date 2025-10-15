@@ -1,7 +1,9 @@
 # 2024-PlaylistGuitarLessons
 #
 
-2024-MedicRecall is a web application designed to help aspiring guitarists learn their favorite songs in a personalized and engaging way. Key features include integration with Spotify, allowing users to pull songs directly from their playlists or input them manually via a text box. The app utilizes web scraping techniques to gather guitar tabs and chord charts for these songs, which are then organized by difficulty level through an algorithm. This ensures that users can practice songs that match their skill levels. Additionally, the application may present song options in a "skill tree" format, visually illustrating skill progression and encouraging exploration of various techniques. A caching mechanism will provide quick access to user playlists, enhancing the overall user experience and making learning convenient and enjoyable.
+2024-PlaylistGuitarLessons is a web application designed to help aspiring guitarists learn their favorite songs in a personalized and engaging way. Key features include integration with Spotify, allowing users to pull songs directly from their playlists or input them manually via a text box. The app utilizes web scraping techniques to gather guitar tabs and chord charts for these songs, which are then organized by difficulty level through an algorithm. This ensures that users can practice songs that match their skill levels. Additionally, the application may present song options in a "skill tree" format, visually illustrating skill progression and encouraging exploration of various techniques. A caching mechanism will provide quick access to user playlists, enhancing the overall user experience and making learning convenient and enjoyable.
+
+testing, here is one new line
 
 ## Contents
 - [Kanban Board](https://github.com/orgs/spe-uob/projects/199)
